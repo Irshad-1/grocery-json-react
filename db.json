@@ -1,0 +1,28 @@
+{
+  "grocerys": [
+    {
+      "title": "Rice",
+      "id": "8d833f57-6457-4a3a-bcf4-c28e47f5431e"
+    },
+    {
+      "title": "Pulses",
+      "id": "071b36e1-531e-4240-a50e-814d15552c35"
+    },
+    {
+      "title": "Sugar",
+      "id": "6fd1a5b9-9ce6-4663-a7d7-cbc835812b79"
+    },
+    {
+      "title": "Fries",
+      "id": "96b0bf97-dce2-44bf-86a9-b30908eac1f4"
+    },
+    {
+      "title": "oil",
+      "id": "d753e6cd-c7a7-4abe-92e1-c03df82164c2"
+    },
+    {
+      "title": "spices",
+      "id": "53687a34-a358-44fa-b116-1f265a013c40"
+    }
+  ]
+}
